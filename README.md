@@ -21,7 +21,7 @@ The project uses multiple CSV files containing loan data from different quarters
 5. **Evaluation**: Assesses model performance using accuracy, ROC-AUC score, and classification reports.
 
 ## Usage
-To run the project, execute the notebook `scorecard_commented.ipynb`. Ensure that all required datasets are in the same directory.
+To run the project, execute the notebook `scorecard.ipynb`. Ensure that all required datasets are in the same directory.
 
 ## Output
 - The final logistic regression model for predicting creditworthiness.
