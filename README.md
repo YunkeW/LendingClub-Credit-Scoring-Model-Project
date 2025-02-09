@@ -1,7 +1,5 @@
 # LendingClub-Credit-Scoring-Model-Project
 
-# Scorecard Model Project
-
 ## Overview
 This project focuses on building a credit scorecard model using statistical techniques and machine learning. The primary objective is to analyze loan data, perform feature selection, and develop a logistic regression model to assess credit risk.
 
